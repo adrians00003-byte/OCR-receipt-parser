@@ -10,6 +10,17 @@ This project is designed to handle real-world, noisy receipts using store-specif
 - CSV export
 - Streamlit dashboard
 
+## Demo
+
+### Upload receipt
+![Upload](assets/upload.png)
+
+### Parsed result
+![Parsed](assets/parsed.png)
+
+### Dashboard
+![Dashboard](assets/dashboard.png)
+
 ## Architecture
 Image → OCR → Text → Store detection → Parser → CSV
 
